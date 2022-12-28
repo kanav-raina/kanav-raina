@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanav Raina</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Match Making Application**
+- 🔭 I’m currently working on **Job Application**
 
-- 🌱 I’m currently learning **apollo graphql**
+- 🌱 I’m currently learning **grpc with fastapi**
 
 - 👨‍💻 All of my projects are available at [http://kanavraina.surge.sh/](http://kanavraina.surge.sh/)
 
